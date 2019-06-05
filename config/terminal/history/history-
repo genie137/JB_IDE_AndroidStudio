@@ -95,3 +95,6 @@
 : 1559732839:0;git remote add origin https://github.com/genie137/JB_IDE_DataGrip.git
 : 1559732844:0;git push -u origin master
 : 1559732919:0;pwd
+: 1559733426:0;adb
+: 1559733429:0;sudo apt install adb
+: 1559733440:0;clear

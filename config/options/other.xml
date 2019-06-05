@@ -6,7 +6,7 @@
     <property name="ColorChooser.RecentColors" value="0-0-0-255" />
     <property name="Default.SavedEditorTheme" value="_@user_Default" />
     <property name="PluginConfigurable.selectionTab" value="1" />
-    <property name="SettingsSearchHistory" value="console colors&#10;console fon&#10;terminal font&#10;plugins" />
+    <property name="SettingsSearchHistory" value="zoom&#10;console colors&#10;console fon&#10;terminal font&#10;plugins" />
     <property name="TrendingPluginsSearchHistory" value="rainbow" />
     <property name="android-component-compatibility-check" value="1559729115631" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />

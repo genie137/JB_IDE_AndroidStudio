@@ -18,3 +18,5 @@ config/plugins/android-butterknife-zelezny\.jar
 config/plugins/availables\.xml
 
 config/plugins/availables\.xml\.etag
+
+system/
