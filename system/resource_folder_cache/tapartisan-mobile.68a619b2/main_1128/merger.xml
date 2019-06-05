@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="res" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/home/joris/StudioProjects/tapartisan-mobile/eris/src/main/res"><file path="/home/joris/StudioProjects/tapartisan-mobile/eris/src/main/res/values/strings.xml" qualifiers="" timestamp="1559729112000"><string name="app_name">Eris</string></file></source></dataSet><mergedItems/></merger>

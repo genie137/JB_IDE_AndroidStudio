@@ -1,0 +1,97 @@
+: 1559721732:0;nano ~/.zshrc
+: 1559721799:0;zsh
+: 1559721801:0;valet
+: 1559721812:0;echo PATH
+: 1559721816:0;PATH
+: 1559721818:0;$PATH
+: 1559721833:0;nano ~/.zshrc
+: 1559721845:0;valet
+: 1559721849:0;$PATH
+: 1559721853:0;nano ~/.zshrc
+: 1559721856:0;zsh
+: 1559721859:0;valet
+: 1559721862:0;exit
+: 1559722059:0;valet install
+: 1559722067:0;sudo apt install jq xsel certutil
+: 1559722083:0;sudo apt install jq xsel 
+: 1559722100:0;sudo apt install libnss3-tools
+: 1559722106:0;valet install
+: 1559722138:0;valet domain test
+: 1559722145:0;valet link boter-en-bloem
+: 1559722155:0;php artisan key:generate
+: 1559722196:0;sudo apt install powerline-fonts
+: 1559722216:0;sudo apt install fonts-powerline
+: 1559722363:0;wget https://github.com/powerline/powerline/raw/develop/font/PowerlineSymbols.otf\
+
+: 1559722437:0;wget https://github.com/powerline/powerline/raw/develop/font/10-powerline-symbols.conf\
+
+: 1559722445:0;mkdir ~/.fonts/\
+
+: 1559722453:0;mv PowerlineSymbols.otf ~/.fonts/\
+
+: 1559722459:0;mkdir -p .config/fontconfig/conf.d #if directory doesn't exists\
+
+: 1559722467:0;fc-cache -vf ~/.fonts/\
+
+: 1559722474:0;mv 10-powerline-symbols.conf ~/.config/fontconfig/conf.d/\
+
+: 1559722576:0;git clone https://github.com/powerline/fonts.git --depth=1\
+
+: 1559722582:0;cd fonts
+: 1559722596:0;ls
+: 1559722603:0;./install.sh
+: 1559722610:0;cd ..
+: 1559722614:0;rm -rf fonts
+: 1559722615:0;ls
+: 1559722619:0;ls -a
+: 1559722674:0;clear
+: 1559722974:0;npm start
+: 1559725417:0;sudo apt install postman
+: 1559725425:0;sudo apt install snapd
+: 1559725449:0;sudo systemctl enable snapd
+: 1559725455:0;sudo snap install postman
+: 1559725519:0;snap install spotify
+: 1559725549:0;sudo snap install termius
+: 1559725561:0;sudo snap install termius-app
+: 1559725578:0;exit
+: 1559728589:0;docker stop
+: 1559728594:0;docker stop boter-en-bloem_bb-mysql_1
+: 1559728662:0;docker start boter-en-bloem_bb-mysql_1
+: 1559729074:0;docker stop boter-en-bloem_bb-mysql_1
+: 1559731716:0;git init
+: 1559731724:0;git add .
+: 1559731749:0;git commit -m "Init with local B&B"
+: 1559731765:0;git config --global user.email "joris.oosterhuis007@gmail.com"
+: 1559731776:0;git config --global user.name "Joris Oosterhuis"
+: 1559731785:0;git remote add origin https://github.com/genie137/JB_IDE_DataGrip.git
+: 1559731792:0;git push -u origin master
+: 1559731809:0;git commit -m "Init with local B&B"
+: 1559731814:0;git push -u origin master
+: 1559731895:0;touch .gitignore
+: 1559731898:0;nano .git
+: 1559731902:0;nano .gitignore
+: 1559731970:0;git commit -m "Init with local B&B"
+: 1559731976:0;git add .gitignore
+: 1559731977:0;ls
+: 1559731987:0;git commit -m "Init with local B&B"
+: 1559731995:0;git push
+: 1559732004:0;git push --set-upstream origin master
+: 1559732052:0;git remove system
+: 1559732201:0;git commit -m "Init with local B&B"
+: 1559732206:0;git add .
+: 1559732207:0;git commit -m "Init with local B&B"
+: 1559732210:0;git push --set-upstream origin master
+: 1559732269:0;git add .
+: 1559732271:0;git commit -m "Init with local B&B"
+: 1559732273:0;git push --set-upstream origin master
+: 1559732308:0;exit
+: 1559732419:0;sudo snap install gitkraken
+: 1559732512:0;xkill
+: 1559732516:0;gitkraken
+: 1559732529:0;sudo gitkraken
+: 1559732536:0;gitkraken
+: 1559732593:0;snap remove gitkraken
+: 1559732697:0;git init
+: 1559732839:0;git remote add origin https://github.com/genie137/JB_IDE_DataGrip.git
+: 1559732844:0;git push -u origin master
+: 1559732919:0;pwd
